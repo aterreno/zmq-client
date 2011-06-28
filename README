@@ -1,0 +1,10 @@
+for python fun:
+sudo apt-get install python-dev
+sudo apt-get install python-setuptools
+sudo easy_install pyzmq
+
+for coffee fun: 
+npm install zeromq
+
+for ruby fun:
+gem install zmq
